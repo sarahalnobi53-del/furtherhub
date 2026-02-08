@@ -22,6 +22,16 @@
 - **Pillow** – For image processing and icons.
 
 ---
+## 🔮 Future Improvements
+Here is our roadmap to transform FurtherHub into a comprehensive educational platform:
+
+- **Comprehensive Academic Coverage:** Expanding the database to cover all Computer Science departments, subjects, and rich study materials.
+- **Advanced Search & Filtering:** Implementing high-speed search algorithms and filters to locate resources instantly.
+- **Direct File Hosting:** Enabling students to upload documents (PDFs, Slides) directly to the platform, moving beyond just external links.
+- **AI-Powered Quality Control:**
+  - Integrating **AI models** to automatically evaluate and verify user-uploaded files before publication.
+  - Smart moderation for comments to ensure a helpful and professional community.
+- **Smart Resource Ranking:** A dynamic system that sorts and prioritizes resources based on user ratings and AI quality scores.
 
 ## 🚀 How to Run
 1. **Clone the repository:**
