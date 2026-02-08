@@ -34,6 +34,6 @@
    ```
    python main.py
 The Team
-​ Sarah Al-Nobi - Lead Developer
-​ Nouf Alshipanee
-​ Ghadeer Almisbahi 
+​- Sarah Al-Nobi - Lead Developer
+-​ Nouf Alshipanee
+-​ Ghadeer Almisbahi 
