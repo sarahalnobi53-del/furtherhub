@@ -36,5 +36,5 @@
    python main.py
 ## 👥 Team Members
 * **Sarah Al-Nobi** - Lead Developer
-* **Nouf Alshipanee**
+* **Noof Alshipanee**
 * **Ghadeer Almisbahi**
