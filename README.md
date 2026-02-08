@@ -26,14 +26,15 @@
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-    git clone [https://github.com/sarahalnobi53-del/furtherhub.git](https://github.com/sarahalnobi53-del/furtherhub.git)
+    git clone https://github.com/sarahalnobi53-del/furtherhub.git
+
 2. Install dependencies:
    ```
      pip install customtkinter pillow
 3. Run the application:
    ```
    python main.py
-The Team
-​- Sarah Al-Nobi - Lead Developer
--​ Nouf Alshipanee
--​ Ghadeer Almisbahi 
+## 👥 Team Members
+* **Sarah Al-Nobi** - Lead Developer
+* **Nouf Alshipanee**
+* **Ghadeer Almisbahi**
