@@ -46,5 +46,5 @@ Here is our roadmap to transform FurtherHub into a comprehensive educational pla
    python main.py
 ## 👥 Team Members
 * **Sarah Al-Nobi** - Lead Developer
-* **Noof Alshipanee**
+* **Noof Al-Shaibani**
 * **Ghadeer Almisbahi**
